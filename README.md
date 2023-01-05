@@ -10,5 +10,5 @@ Before opening a restaurant one must keep in mind a lot of factors like:
 5)Do you want to offer Alcohol? Should you consider getting an alcohol licence ?
 6)Do you want to offer food delivery?
 7)Should you consider opening just a fast food restaurant ?
-8)As part of the analysis, I have taken some questions and tried to answer them by querying the YELP Database using MySQL-Python(mysqlclient)
+8)As part of the analysis, I have taken some questions and tried to answer them by querying the YELP Database using MySQL-Python and Python.
 

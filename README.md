@@ -1,5 +1,6 @@
 # Resturant_Planning_SQL
 
+Languages:- SQL and Python
 As an analyst, I am helping a business owner in planning to open a Fast food restaurant in Philadelphia 🍟: 
 Before opening a restaurant one must keep in mind a lot of factors like:
 
